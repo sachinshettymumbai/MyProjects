@@ -1,0 +1,250 @@
+FUNDID
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+
+FUNDDESC
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+
+BASECURR TKR
+
+MULTICURR
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+
+112063
+112063
+112063
+113902
+113902
+113902
+116239
+116239
+199999
+199999
+199999
+105797
+105799
+105804
+105812
+105815
+105898
+105925
+106074
+106223
+106546
+106568
+106569
+106587
+106595
+106596
+106962
+108149
+110835
+111153
+111159
+111160
+111191
+111888
+113194
+113446
+113460
+113841
+114389
+114463
+114513
+114663
+114787
+114794
+114796
+114825
+
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+SELECT
+
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+Caspian Select Master LP
+
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+True USD
+
+114911
+115133
+115155
+115180
+116319
+CAD
+CAD
+DKK
+EUR
+EUR
+GBP
+MXN
+SEK
+
+
